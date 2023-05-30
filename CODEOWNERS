@@ -1,1 +1,6 @@
-README.md @dev-team
+# Comments start with a hash symbol
+
+# Assign team code owners,individual owners
+*.md @dev-team @KalpanaReddyC
+
+
